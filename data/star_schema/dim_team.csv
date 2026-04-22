@@ -1,0 +1,31 @@
+team_id,team_city,team_name,team_full_name,team_abbrev,season_founded,season_active_till,league_name
+1610612737,Atlanta,Hawks,Atlanta Hawks,ATL  ,1968,2100,NBA
+1610612738,Boston,Celtics,Boston Celtics,BOS  ,1949,2100,NBA
+1610612751,Brooklyn,Nets,Brooklyn Nets,BKN  ,2012,2100,NBA
+1610612766,Charlotte,Hornets,Charlotte Hornets,CHA  ,2014,2100,NBA
+1610612741,Chicago,Bulls,Chicago Bulls,CHI  ,1966,2100,NBA
+1610612739,Cleveland,Cavaliers,Cleveland Cavaliers,CLE  ,1970,2100,NBA
+1610612742,Dallas,Mavericks,Dallas Mavericks,DAL  ,1980,2100,NBA
+1610612743,Denver,Nuggets,Denver Nuggets,DEN  ,1976,2100,NBA
+1610612765,Detroit,Pistons,Detroit Pistons,DET  ,1957,2100,NBA
+1610612744,Golden State,Warriors,Golden State Warriors,GSW  ,1971,2100,NBA
+1610612745,Houston,Rockets,Houston Rockets,HOU  ,1971,2100,NBA
+1610612754,Indiana,Pacers,Indiana Pacers,IND  ,1976,2100,NBA
+1610612746,LA,Clippers,LA Clippers,LAC  ,1984,2100,NBA
+1610612747,Los Angeles,Lakers,Los Angeles Lakers,LAL  ,1960,2100,NBA
+1610612763,Memphis,Grizzlies,Memphis Grizzlies,MEM  ,2001,2100,NBA
+1610612748,Miami,Heat,Miami Heat,MIA  ,1988,2100,NBA
+1610612749,Milwaukee,Bucks,Milwaukee Bucks,MIL  ,1968,2100,NBA
+1610612750,Minnesota,Timberwolves,Minnesota Timberwolves,MIN  ,1989,2100,NBA
+1610612740,New Orleans,Pelicans,New Orleans Pelicans,NOP  ,2013,2100,NBA
+1610612752,New York,Knicks,New York Knicks,NYK  ,1949,2100,NBA
+1610612760,Oklahoma City,Thunder,Oklahoma City Thunder,OKC  ,2008,2100,NBA
+1610612753,Orlando,Magic,Orlando Magic,ORL  ,1989,2100,NBA
+1610612755,Philadelphia,76ers,Philadelphia 76ers,PHI  ,1963,2100,NBA
+1610612756,Phoenix,Suns,Phoenix Suns,PHX  ,1968,2100,NBA
+1610612757,Portland,Trail Blazers,Portland Trail Blazers,POR  ,1970,2100,NBA
+1610612758,Sacramento,Kings,Sacramento Kings,SAC  ,1985,2100,NBA
+1610612759,San Antonio,Spurs,San Antonio Spurs,SAN  ,1976,2100,NBA
+1610612761,Toronto,Raptors,Toronto Raptors,TOR  ,1995,2100,NBA
+1610612762,Utah,Jazz,Utah Jazz,UTA  ,1979,2100,NBA
+1610612764,Washington,Wizards,Washington Wizards,WAS  ,1997,2100,NBA
