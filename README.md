@@ -54,3 +54,8 @@ python src/build_star_schema.py
 streamlit run app.py
 ```
 
+## Run URL
+
+```bash
+https://nbadashboard-72k4wn4rmh9fija9dam2ot.streamlit.app/
+```
